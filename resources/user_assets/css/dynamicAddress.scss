@@ -1,0 +1,57 @@
+/*Стили для попапа адресов*/
+#address_options::-webkit-scrollbar-track, #base_options::-webkit-scrollbar-track {
+    background-color: transparent;
+    width: 4px !important;
+}
+
+#address_options::-webkit-scrollbar, #base_options::-webkit-scrollbar {
+    width: 4px;
+    background-color: transparent;
+}
+
+
+#address_options::-webkit-scrollbar-thumb, #base_options::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+
+#address_options_block, #base_options_block {
+    position: relative;
+    text-align: left;
+    margin-top: -8px;
+    z-index: 0;
+    background: #ffffff !important;
+    max-height: 15vh;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    padding: 0.438rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #6e6b7b;
+    background-clip: padding-box;
+    border: 2px solid #d8d6de;
+    border-radius: 0.357rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+#address_options, #base_options {
+    position: relative;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 15vh;
+    display: block;
+}
+
+.address_option_item, .base_option_item {
+    border-bottom: 1px solid transparent;
+    padding: 10px 15px 10px 14px;
+    font-size: 13px;
+    color: #000;
+    font-weight: 500;
+}
+
+/*Стили для попапа адресов*/

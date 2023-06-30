@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/user_assets/js/postCreateHandler.min.js": "/user_assets/js/postCreateHandler.min.js",
+    "/user_assets/js/postShowHandler.min.js": "/user_assets/js/postShowHandler.min.js",
+    "/user_assets/js/profileHandler.min.js": "/user_assets/js/profileHandler.min.js",
+    "/user_assets/js/postMapHandler.min.js": "/user_assets/js/postMapHandler.min.js",
+    "/user_assets/js/postCreate.min.js": "/user_assets/js/postCreate.min.js",
+    "/user_assets/js/profileLeadsHandler.min.js": "/user_assets/js/profileLeadsHandler.min.js",
+    "/user_assets/js/userIntegrations.min.js": "/user_assets/js/userIntegrations.min.js",
+    "/admin/custom-js/admin-panel.js": "/admin/custom-js/admin-panel.js",
+    "/css/app.css": "/css/app.css",
+    "/user_assets/css/dynamicAddress.css": "/user_assets/css/dynamicAddress.css",
+    "/user_assets/css/core.css": "/user_assets/css/core.css",
+    "/user_assets/js/core.js": "/user_assets/js/core.js"
+}
